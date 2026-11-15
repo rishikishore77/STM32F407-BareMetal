@@ -1,0 +1,14 @@
+# Build output
+build/
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+
+# Debug output
+*.log
+
+# VS Code
+.vscode/.browse.VC.db
+.vscode/ipch/
